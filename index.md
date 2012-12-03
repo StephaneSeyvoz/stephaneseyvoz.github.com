@@ -8,7 +8,7 @@ tagline: A Mind contributor's blog
 ### Welcome to my developer page
 
 This blog is aimed to provide information, important or not, about the contributions I make to the Mind compiler and MindEd editor.
-Content will be added according to issues and solutions I meet and when any idea come... to my mind.
+Content will be added according to issues and solutions I meet and when any idea comes... to my mind.
 
 ### Post updates
 
