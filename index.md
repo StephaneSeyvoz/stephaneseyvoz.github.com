@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Welcome to my developer page !
-tagline: Supporting tagline
+title: Where is my Mind ?
+tagline: A Mind contributor's blog
 ---
 {% include JB/setup %}
+    
+### Welcome to my developer page
 
-## Welcome to my developer page !
+This blog is aimed to provide information, important or not, about the contributions I make to the Mind compiler and MindEd editor.
+Content will be added according to issues and solutions I meet and when any idea come... to my mind.
 
-The aim of this page is to enable discussion around my contributions to the Mind toolchain, to talk about the mind compiler and mindEd editor internals, and the plugins I contribute to with the Mind4SE team.
-
-## Post updates
+### Post updates
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -17,6 +18,10 @@ The aim of this page is to enable discussion around my contributions to the Mind
   {% endfor %}
 </ul>
 
-## Author
+### Author
 
-Having trouble with minEd or one of my plugins ? Feel free to contact me: @StephaneSeyvoz
+I'm a french developer from Grenoble, working for Assystem and currently in mission for Schneider-Electric.
+My work focuses on making the Mind tools more robust and user-friendly. I also like freestyle skiing and music.
+Contact information can be found below.
+
+

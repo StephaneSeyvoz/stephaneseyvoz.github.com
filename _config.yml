@@ -9,12 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title :  Where is my Mind ?
+tagline: A Mind contributor's blog
 author :
   name : Stephane Seyvoz
-  email : sseyvoz@assystem.com
+  email : stephaneseyvoz@gmail.com
   github : StephaneSeyvoz
+#  twitter : username
+#  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
