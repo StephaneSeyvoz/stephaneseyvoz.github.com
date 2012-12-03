@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : stephaneseyvoz
+      short_name : githubstephaneseyvoz
 #    livefyre :
 #      site_id : 123
 #    intensedebate :
