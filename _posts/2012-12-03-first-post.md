@@ -4,6 +4,7 @@ title: "First post"
 description: ""
 category: 
 tags: [hello world]
+comments: true
 ---
 {% include JB/setup %}
 
