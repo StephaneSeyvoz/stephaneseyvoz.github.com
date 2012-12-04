@@ -9,12 +9,10 @@ tags: [MindEd, Mind attributes, editor]
 
 Today I introduced basic support for the new "complex attributes" syntax.
 Such attributes can be structures or unions, and can be used in the ADL, e.g.:
-`  
 
 	attribute attrTypes.h:struct s1 attr3 = {3, 4};
 
-Where attrTypes.h is:
-`  
+Where attrTypes.h is: 
 
 	#ifndef ATTR_TYPES_H  
 	#define ATTR_TYPES_H  
